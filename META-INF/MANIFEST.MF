@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: serverapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: canhtq
+Implementation-Vendor-Id: vng.ge.stats.ub
+Spring-Boot-Version: 1.5.7.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: vng.ge.stats.ub.ServerapiApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/serverapi/
+
